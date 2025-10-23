@@ -8,8 +8,8 @@
 
 <div align="center">
   🔭 I'm currently working on <b>Full-Stack Web Applications</b>  
-  🌱 I'm mastering <b>Advanced TypeScript & Cloud Architecture</b>  
-  💬 Ask me about <b>Web Development, TypeScript, Python</b>  
+  🌱 I'm mastering <b>Advanced TypeScript, React, Cloud & DataBase</b>  
+  💬 Ask me about <b>Web Development, Python</b>  
 </div>
 
 <div align="center">
@@ -20,16 +20,16 @@
 
 ## 🏆 Achievements
 
-- Winner, XYZ Hackathon 2024
-- Contributor to [Open Source Project Name](https://github.com/prateek1756)
-- Certified AWS Cloud Practitioner
-- Scholarship Recipient, ABC Foundation
-
+- GOOGLE DEVLOPMENT GROUP x CODE CLASH(2024) - Winner
+- Contributor to [Open Source Projects](https://github.com/prateek1756)
+- SHIKSHA BHARAT EXPO CENTER (COADEATHON) - Winner
+- GOOGLE GEMINI STUDENT AMBASSADOR
+- Microsoft Learn Student Chapter { PR Team - CO-Lead }
 ---
 
 ## 🚀 Projects
 
-- [CyberGuard](https://github.com/prateek1756/CyberGuard): TypeScript-powered web app for cybersecurity management.
+- [CyberGuard](https://github.com/prateek1756/CyberGuard): Under Development.
 - [Hospital Management System](https://github.com/prateek1756/hospital-management-system): Python-based solution for hospital operations.
 - [Portfolio](https://github.com/prateek1756/portfolio): My personal website built with TypeScript and CSS.
 - [Health Care Website](https://github.com/prateek1756/healthcare.github.io): Static site built with HTML & CSS.
@@ -86,22 +86,22 @@
   <a href="https://github.com/prateek1756">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Add your social links below -->
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/prateek-chand1756">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_TWITTER_URL">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌐 Community Involvement
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prateek1756&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+- Co-lead of PR Department at MLSC
+- Active participant in local tech meetups and hackathons
+- Mentor for new developers in open source communities
+- Volunteer at coding bootcamps and educational workshops
+- Contributor to collaborative projects and community initiatives
+
+---
 
 <br/>
 
@@ -117,5 +117,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Let's+connect+and+create+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=+Let's+connect+and+create+something+amazing+together!" alt="Typing SVG" />
+  <br/>
 </div>
